@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2021.1.1 (64-bit)
+# SW Build 3286242 on Wed Jul 28 13:10:47 MDT 2021
+# IP Build 3279568 on Wed Jul 28 16:48:48 MDT 2021
+# Start of session at: Mon Oct 11 05:19:35 2021
+# Process ID: 7552
+# Current directory: D:/Software/Xilinx/Projects/RC5_Complete_Module/RC5_Complete_Module.runs/impl_1
+# Command line: vivado.exe -log RC5.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source RC5.tcl -notrace
+# Log file: D:/Software/Xilinx/Projects/RC5_Complete_Module/RC5_Complete_Module.runs/impl_1/RC5.vdi
+# Journal file: D:/Software/Xilinx/Projects/RC5_Complete_Module/RC5_Complete_Module.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source RC5.tcl -notrace

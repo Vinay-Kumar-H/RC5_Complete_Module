@@ -1,0 +1,85 @@
+Time resolution is 1 ps
+Note: Encryption Match for data 1
+Time: 5100 ns  Iteration: 0  Process: /RC5_TestBench/Test_Cases  File: D:/Software/Xilinx/Projects/RC5_Complete_Module/RC5_Complete_Module.srcs/sim_1/new/RC5_TestBench.vhd
+Note: Encryption Match for data 2
+Time: 5900 ns  Iteration: 0  Process: /RC5_TestBench/Test_Cases  File: D:/Software/Xilinx/Projects/RC5_Complete_Module/RC5_Complete_Module.srcs/sim_1/new/RC5_TestBench.vhd
+Note: Encryption Match for data 3
+Time: 6700 ns  Iteration: 0  Process: /RC5_TestBench/Test_Cases  File: D:/Software/Xilinx/Projects/RC5_Complete_Module/RC5_Complete_Module.srcs/sim_1/new/RC5_TestBench.vhd
+Note: Encryption Match for data 4
+Time: 7500 ns  Iteration: 0  Process: /RC5_TestBench/Test_Cases  File: D:/Software/Xilinx/Projects/RC5_Complete_Module/RC5_Complete_Module.srcs/sim_1/new/RC5_TestBench.vhd
+Note: Encryption Match for data 5
+Time: 8300 ns  Iteration: 0  Process: /RC5_TestBench/Test_Cases  File: D:/Software/Xilinx/Projects/RC5_Complete_Module/RC5_Complete_Module.srcs/sim_1/new/RC5_TestBench.vhd
+Note: Encryption Match for data 6
+Time: 9100 ns  Iteration: 0  Process: /RC5_TestBench/Test_Cases  File: D:/Software/Xilinx/Projects/RC5_Complete_Module/RC5_Complete_Module.srcs/sim_1/new/RC5_TestBench.vhd
+Note: Encryption Match for data 7
+Time: 9900 ns  Iteration: 0  Process: /RC5_TestBench/Test_Cases  File: D:/Software/Xilinx/Projects/RC5_Complete_Module/RC5_Complete_Module.srcs/sim_1/new/RC5_TestBench.vhd
+Note: Encryption Match for data 8
+Time: 10700 ns  Iteration: 0  Process: /RC5_TestBench/Test_Cases  File: D:/Software/Xilinx/Projects/RC5_Complete_Module/RC5_Complete_Module.srcs/sim_1/new/RC5_TestBench.vhd
+Note: Encryption Match for data 9
+Time: 11500 ns  Iteration: 0  Process: /RC5_TestBench/Test_Cases  File: D:/Software/Xilinx/Projects/RC5_Complete_Module/RC5_Complete_Module.srcs/sim_1/new/RC5_TestBench.vhd
+Note: Encryption Match for data 10
+Time: 12300 ns  Iteration: 0  Process: /RC5_TestBench/Test_Cases  File: D:/Software/Xilinx/Projects/RC5_Complete_Module/RC5_Complete_Module.srcs/sim_1/new/RC5_TestBench.vhd
+Note: Encryption Match for data 11
+Time: 13100 ns  Iteration: 0  Process: /RC5_TestBench/Test_Cases  File: D:/Software/Xilinx/Projects/RC5_Complete_Module/RC5_Complete_Module.srcs/sim_1/new/RC5_TestBench.vhd
+Note: Encryption Match for data 12
+Time: 13900 ns  Iteration: 0  Process: /RC5_TestBench/Test_Cases  File: D:/Software/Xilinx/Projects/RC5_Complete_Module/RC5_Complete_Module.srcs/sim_1/new/RC5_TestBench.vhd
+Note: Encryption Match for data 13
+Time: 14700 ns  Iteration: 0  Process: /RC5_TestBench/Test_Cases  File: D:/Software/Xilinx/Projects/RC5_Complete_Module/RC5_Complete_Module.srcs/sim_1/new/RC5_TestBench.vhd
+Note: Encryption Match for data 14
+Time: 15500 ns  Iteration: 0  Process: /RC5_TestBench/Test_Cases  File: D:/Software/Xilinx/Projects/RC5_Complete_Module/RC5_Complete_Module.srcs/sim_1/new/RC5_TestBench.vhd
+Note: Encryption Match for data 15
+Time: 16300 ns  Iteration: 0  Process: /RC5_TestBench/Test_Cases  File: D:/Software/Xilinx/Projects/RC5_Complete_Module/RC5_Complete_Module.srcs/sim_1/new/RC5_TestBench.vhd
+Note: Encryption Match for data 16
+Time: 17100 ns  Iteration: 0  Process: /RC5_TestBench/Test_Cases  File: D:/Software/Xilinx/Projects/RC5_Complete_Module/RC5_Complete_Module.srcs/sim_1/new/RC5_TestBench.vhd
+Note: Encryption Match for data 17
+Time: 17900 ns  Iteration: 0  Process: /RC5_TestBench/Test_Cases  File: D:/Software/Xilinx/Projects/RC5_Complete_Module/RC5_Complete_Module.srcs/sim_1/new/RC5_TestBench.vhd
+Note: Encryption Match for data 18
+Time: 18700 ns  Iteration: 0  Process: /RC5_TestBench/Test_Cases  File: D:/Software/Xilinx/Projects/RC5_Complete_Module/RC5_Complete_Module.srcs/sim_1/new/RC5_TestBench.vhd
+Note: Encryption Match for data 19
+Time: 19500 ns  Iteration: 0  Process: /RC5_TestBench/Test_Cases  File: D:/Software/Xilinx/Projects/RC5_Complete_Module/RC5_Complete_Module.srcs/sim_1/new/RC5_TestBench.vhd
+Note: Encryption Match for data 20
+Time: 20300 ns  Iteration: 0  Process: /RC5_TestBench/Test_Cases  File: D:/Software/Xilinx/Projects/RC5_Complete_Module/RC5_Complete_Module.srcs/sim_1/new/RC5_TestBench.vhd
+Note: No more Data to Read
+Time: 20300 ns  Iteration: 0  Process: /RC5_TestBench/Test_Cases  File: D:/Software/Xilinx/Projects/RC5_Complete_Module/RC5_Complete_Module.srcs/sim_1/new/RC5_TestBench.vhd
+Note: Decryption Match for data 1
+Time: 21150 ns  Iteration: 0  Process: /RC5_TestBench/Test_Cases  File: D:/Software/Xilinx/Projects/RC5_Complete_Module/RC5_Complete_Module.srcs/sim_1/new/RC5_TestBench.vhd
+Note: Decryption Match for data 2
+Time: 21950 ns  Iteration: 0  Process: /RC5_TestBench/Test_Cases  File: D:/Software/Xilinx/Projects/RC5_Complete_Module/RC5_Complete_Module.srcs/sim_1/new/RC5_TestBench.vhd
+Note: Decryption Match for data 3
+Time: 22750 ns  Iteration: 0  Process: /RC5_TestBench/Test_Cases  File: D:/Software/Xilinx/Projects/RC5_Complete_Module/RC5_Complete_Module.srcs/sim_1/new/RC5_TestBench.vhd
+Note: Decryption Match for data 4
+Time: 23550 ns  Iteration: 0  Process: /RC5_TestBench/Test_Cases  File: D:/Software/Xilinx/Projects/RC5_Complete_Module/RC5_Complete_Module.srcs/sim_1/new/RC5_TestBench.vhd
+Note: Decryption Match for data 5
+Time: 24350 ns  Iteration: 0  Process: /RC5_TestBench/Test_Cases  File: D:/Software/Xilinx/Projects/RC5_Complete_Module/RC5_Complete_Module.srcs/sim_1/new/RC5_TestBench.vhd
+Note: Decryption Match for data 6
+Time: 25150 ns  Iteration: 0  Process: /RC5_TestBench/Test_Cases  File: D:/Software/Xilinx/Projects/RC5_Complete_Module/RC5_Complete_Module.srcs/sim_1/new/RC5_TestBench.vhd
+Note: Decryption Match for data 7
+Time: 25950 ns  Iteration: 0  Process: /RC5_TestBench/Test_Cases  File: D:/Software/Xilinx/Projects/RC5_Complete_Module/RC5_Complete_Module.srcs/sim_1/new/RC5_TestBench.vhd
+Note: Decryption Match for data 8
+Time: 26750 ns  Iteration: 0  Process: /RC5_TestBench/Test_Cases  File: D:/Software/Xilinx/Projects/RC5_Complete_Module/RC5_Complete_Module.srcs/sim_1/new/RC5_TestBench.vhd
+Note: Decryption Match for data 9
+Time: 27550 ns  Iteration: 0  Process: /RC5_TestBench/Test_Cases  File: D:/Software/Xilinx/Projects/RC5_Complete_Module/RC5_Complete_Module.srcs/sim_1/new/RC5_TestBench.vhd
+Note: Decryption Match for data 10
+Time: 28350 ns  Iteration: 0  Process: /RC5_TestBench/Test_Cases  File: D:/Software/Xilinx/Projects/RC5_Complete_Module/RC5_Complete_Module.srcs/sim_1/new/RC5_TestBench.vhd
+Note: Decryption Match for data 11
+Time: 29150 ns  Iteration: 0  Process: /RC5_TestBench/Test_Cases  File: D:/Software/Xilinx/Projects/RC5_Complete_Module/RC5_Complete_Module.srcs/sim_1/new/RC5_TestBench.vhd
+Note: Decryption Match for data 12
+Time: 29950 ns  Iteration: 0  Process: /RC5_TestBench/Test_Cases  File: D:/Software/Xilinx/Projects/RC5_Complete_Module/RC5_Complete_Module.srcs/sim_1/new/RC5_TestBench.vhd
+Note: Decryption Match for data 13
+Time: 30750 ns  Iteration: 0  Process: /RC5_TestBench/Test_Cases  File: D:/Software/Xilinx/Projects/RC5_Complete_Module/RC5_Complete_Module.srcs/sim_1/new/RC5_TestBench.vhd
+Note: Decryption Match for data 14
+Time: 31550 ns  Iteration: 0  Process: /RC5_TestBench/Test_Cases  File: D:/Software/Xilinx/Projects/RC5_Complete_Module/RC5_Complete_Module.srcs/sim_1/new/RC5_TestBench.vhd
+Note: Decryption Match for data 15
+Time: 32350 ns  Iteration: 0  Process: /RC5_TestBench/Test_Cases  File: D:/Software/Xilinx/Projects/RC5_Complete_Module/RC5_Complete_Module.srcs/sim_1/new/RC5_TestBench.vhd
+Note: Decryption Match for data 16
+Time: 33150 ns  Iteration: 0  Process: /RC5_TestBench/Test_Cases  File: D:/Software/Xilinx/Projects/RC5_Complete_Module/RC5_Complete_Module.srcs/sim_1/new/RC5_TestBench.vhd
+Note: Decryption Match for data 17
+Time: 33950 ns  Iteration: 0  Process: /RC5_TestBench/Test_Cases  File: D:/Software/Xilinx/Projects/RC5_Complete_Module/RC5_Complete_Module.srcs/sim_1/new/RC5_TestBench.vhd
+Note: Decryption Match for data 18
+Time: 34750 ns  Iteration: 0  Process: /RC5_TestBench/Test_Cases  File: D:/Software/Xilinx/Projects/RC5_Complete_Module/RC5_Complete_Module.srcs/sim_1/new/RC5_TestBench.vhd
+Note: Decryption Match for data 19
+Time: 35550 ns  Iteration: 0  Process: /RC5_TestBench/Test_Cases  File: D:/Software/Xilinx/Projects/RC5_Complete_Module/RC5_Complete_Module.srcs/sim_1/new/RC5_TestBench.vhd
+Note: Decryption Match for data 20
+Time: 36350 ns  Iteration: 0  Process: /RC5_TestBench/Test_Cases  File: D:/Software/Xilinx/Projects/RC5_Complete_Module/RC5_Complete_Module.srcs/sim_1/new/RC5_TestBench.vhd
+Note: No more Data to Read
+Time: 36350 ns  Iteration: 0  Process: /RC5_TestBench/Test_Cases  File: D:/Software/Xilinx/Projects/RC5_Complete_Module/RC5_Complete_Module.srcs/sim_1/new/RC5_TestBench.vhd

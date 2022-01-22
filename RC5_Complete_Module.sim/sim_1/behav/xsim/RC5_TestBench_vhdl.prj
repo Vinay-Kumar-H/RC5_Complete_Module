@@ -1,0 +1,11 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../RC5_Complete_Module.srcs/sources_1/new/RC5_PACKAGE.vhd" \
+"../../../../RC5_Complete_Module.srcs/sources_1/new/RC5.vhd" \
+"../../../../RC5_Complete_Module.srcs/sources_1/new/RC5_DEC.vhd" \
+"../../../../RC5_Complete_Module.srcs/sources_1/new/RC5_ENC.vhd" \
+"../../../../RC5_Complete_Module.srcs/sources_1/new/RC5_KEY_GENERATION.vhd" \
+"../../../../RC5_Complete_Module.srcs/sim_1/new/RC5_TestBench.vhd" \
+
+# Do not sort compile order
+nosort
